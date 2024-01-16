@@ -1,0 +1,25 @@
+{
+  "name": "bos-altyapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bnewixua"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/discord-invites-tracker": "^1.2.3",
+    "ascii-table": "^0.0.9",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^7.3.4"
+  }
+}
