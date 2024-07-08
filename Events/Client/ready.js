@@ -8,6 +8,6 @@ module.exports = {
         console.log(`[+] ${client.user.username} ismiyle giriş yaptı. `)
     
 
-        client.user.setActivity(`bnewixua <3`, { type: ActivityType.Watching })
+        client.user.setActivity(`slow3rxq`, { type: ActivityType.Watching })
     }
 }
